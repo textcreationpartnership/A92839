@@ -1,0 +1,283 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The secretary of the Scots army, his relation to the commissioners concerning the King, how his Majesty came within two miles of London; the garrisons he marched thorow, and his comming to the Scots. With the whole proceedings between his Majesty and the Scots, and his march northward with their army; with the resolutions and intentions of the Scots army. Also the treaty betweene the King and Generall Leven; and the copie of the articles for the surrender of Newarke, with all the ordnance, armes and ammunition, bagge and baggage. These being examined by the originall papers, are commanded to be printed, and published according to order of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92839</idno>
+            <idno type="STC">Wing S2353</idno>
+            <idno type="STC">Thomason E337_11</idno>
+            <idno type="STC">ESTC R200825</idno>
+            <idno type="EEBO-CITATION">99861460</idno>
+            <idno type="PROQUEST">99861460</idno>
+            <idno type="VID">113597</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92839)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113597)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E337[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The secretary of the Scots army, his relation to the commissioners concerning the King, how his Majesty came within two miles of London; the garrisons he marched thorow, and his comming to the Scots. With the whole proceedings between his Majesty and the Scots, and his march northward with their army; with the resolutions and intentions of the Scots army. Also the treaty betweene the King and Generall Leven; and the copie of the articles for the surrender of Newarke, with all the ordnance, armes and ammunition, bagge and baggage. These being examined by the originall papers, are commanded to be printed, and published according to order of Parliament.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Elizabeth Purslowe,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>May 11. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Personal narratives --  Early works to 1800.</term>
+               <term>Newark (Nottinghamshire, England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Treaties --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113597:1"/>
+            <!-- PDF PAGE 92 -->
+            <pb facs="tcp:113597:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 92 -->
+            <p>THE SECRETARY OF THE Scots Army, His Relation to the Commiſſioners concerning the King, how his Majeſty came with<g ref="char:EOLhyphen"/>in two miles of <hi>London;</hi> the Garriſons he marched thorow, and his comming to the <hi>Scots.</hi>
+            </p>
+            <p>With the whole proceedings between his Ma<g ref="char:EOLhyphen"/>jeſty and the Scots, and his march northward with their Army; With the Reſolutions and Inten<g ref="char:EOLhyphen"/>tions of the Scots Army.</p>
+            <p>Alſo the Treaty betweene the King and Generall <hi>Leven;</hi> And the Copie of the Articles for the <gap reason="illegible" extent="7 letters">
+                  <desc>〈7 letters〉</desc>
+               </gap>er of <hi>Newarke,</hi> with all the Ordnance, Armes and Ammunition, <hi>Bagge and <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi>
+            </p>
+            <p>
+               <hi>Theſe being <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ined by the originall Papers, are commanded to be printed, and are publiſhed according to Order of Parliament.</hi>
+            </p>
+            <p>LONDON: Printed by <hi>Elizabeth Purfl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w, May</hi> 11. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb facs="tcp:113597:2"/>
+            <!-- PDF PAGE 93 -->
+            <pb n="1" facs="tcp:113597:2"/>
+            <!-- PDF PAGE 93 -->
+            <head>A Meſſenger from the Generall of the <hi>Scots</hi> Army, being one of the Secre<g ref="char:EOLhyphen"/>taries, is come to the <hi>Scots</hi> Commiſſi<g ref="char:EOLhyphen"/>oners, and maketh this Relation.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He King is now with the <hi>Scots</hi> Army: The firſt time that wee can learne where His Majeſtie was after he came out of <hi>Oxford,</hi> was on Sa<g ref="char:EOLhyphen"/>turday the ſecond of <hi>May</hi> Inſtant, and then he was within ſome two miles of <hi>London<g ref="char:punc">▪</g>
+               </hi> as is told the Army, and on Monday night, <hi>May</hi> the fourth, His Maje<g ref="char:EOLhyphen"/>ſtie lay in <hi>Stamford</hi> upon a bed with His Cloathes on all night, and that Morning paſſed two of the Parliaments Guards, but could not be knowne, becauſe His Beard was ſhaved, and His Lock cut.</p>
+            <p>On Tueſday Morning His Majeſtie came to <hi>Southwell</hi> to the <hi>Scots</hi> Army, and Generall <hi>Leven</hi> having Intelli<g ref="char:EOLhyphen"/>gence that His Majeſtie was come into their Garriſon, for ſome Officers that were upon the Guard that ſaw Him, had ſome ſuſpicion of Him that it was the King, who making it knowne, a ſearch was made three houres before they could heare where he was; and about noone His Majeſtie ſent to Generall <hi>Leven,</hi> letting him know he was there (and that he was then with the <hi>French</hi> Agent)
+<pb n="2" facs="tcp:113597:3"/>
+               <!-- PDF PAGE 94 -->and that he would caſt Himſelfe upon them, where upon there was advertiſement given to the <hi>
+                  <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cots</hi> Commiſſio<g ref="char:EOLhyphen"/>ners of His Majeſties being there, who with Generall <hi>Leven</hi> went to His Majeſtie and cauſed Him to remove His Quarters to <hi>Kellam,</hi> Lieutenant Generall <hi>David Leſlyes</hi> Quarters, where there was much amazement to ſee into how low a condition His Majeſtie was brought.</p>
+            <p>Generall <hi>Leven</hi> had ſome Treatie with His Majeſtie about the ſurrender of <hi>Newarke,</hi> deſiring Him to give Order to <hi>Bellaſys</hi> the Governour for the delivery thereof, and His Majeſtie offered to ſurrender it to them, but Ge<g ref="char:EOLhyphen"/>nerall <hi>Leven</hi> anſwered, that to remove all jealouſies they muſt yeeld to have it to be ſurrendred to the Parliament of <hi>England:</hi> and His Majeſtie was prevailed with to ſend to the Governour to give Order for the ſurrender thereof to the Parliament of <hi>England</hi> accordingly, which was greed wedneſday the 6. Inſtant by the Comiſſioners, as may appeare by the following Articles; After which agree<g ref="char:EOLhyphen"/>ment the <hi>Scots</hi> Forces (being willing to eaſe the Country there-abouts, who have beene ſo long charged with ſo great an Army) with all cheerefulneſſe and willingneſſe, removed their Quarters North-ward, the King ſtill re<g ref="char:EOLhyphen"/>maining with Lieutenant Generall <hi>David Leſly,</hi> and care being taken for freſh Clothes, and other refreſhments for His Majeſtie: and the Generall taking care to re<g ref="char:EOLhyphen"/>move to ſome more convenient, and freſh Quarters, and being reſolved to take care and charge of His Majeſtie. untill both Kingdomes be agreed, to which to ſubmit for the diſpoſing of His Majeſties Perſon.</p>
+            <p>There are few Armies without ſome diſorder, by ſome that cannot be prevented, yet the chiefe of thoſe that manage the buſineſſe amongſt our Brethren of <hi>Scotland</hi> and our Commiſſioners, carry on all things with great
+<pb n="3" facs="tcp:113597:3"/>
+               <!-- PDF PAGE 94 -->wiſedome, and it is hoped will prevent all differences, as may appeare by this inſuing Letter from the Commiſſi<g ref="char:EOLhyphen"/>oners Quarters.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Gentlemen,</salute>
+                  </opener>
+                  <p>YOu are all now ſatisfied where the King is, though perhaps you will not know whilſt this come to your hands, that he is this afternoon marched away North<g ref="char:EOLhyphen"/>wards with all the Scots Army, both Horſe and Foot, wee believe it is onely into freſh Quarters, till the deſires of the Parliament may be ſignified unto them, how they would have the Army diſpoſed of, wee have found a very exceeding faire correſpondencie with the old <hi>Scots</hi> Ge<g ref="char:EOLhyphen"/>nerall, and all the Commiſſioners, who have beene ready to comply with us in all reaſonable demands, as wee on the other ſide have not beene wanting to expreſſe to them the like reſpects in any thing within our power, and for the Kings being in their Quarters, they doe aſſure us that as His Majeſtie was unexpected, ſo they will uſe all care, that His abode with them ſhall not be in the leaſt man<g ref="char:EOLhyphen"/>ner prejudiciall to the intreſt of the two Kingdomes; The Governour of <hi>Newarke</hi> hath come out to us, and is wondrous faire conditioned, and promiſeth to ſub<g ref="char:EOLhyphen"/>mit to whatſoever wee ſhall adviſe, and will be carefull to preſerve all things in the Garriſon for the publique uſe, till the time of Surrender.</p>
+                  <closer>
+                     <dateline>
+                        <date>May the 7.</date>
+                     </dateline>
+                     <signed>BALDERTON.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <div type="articles">
+            <pb n="4" facs="tcp:113597:4"/>
+            <!-- PDF PAGE 95 -->
+            <head>
+               <hi>Articles agreed &amp; concluded the ſixth of</hi> May, <hi>1646. betweene the Commiſſioners her<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> under named Authorized by the Committee of the Parliament of both Kingdomes, of</hi> England <hi>and</hi> Scotland, <hi>on the one part, and the Commiſſioners hereunder named, authorized</hi> by the Governour of <hi>Newarke,</hi> Lieutenant Genera<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l to His Maje<g ref="char:EOLhyphen"/>ſtie, of the Counties of <hi>Nottingham, Lincolne,</hi> and <hi>Rutland,</hi> and Governour of the Towne and Castle of <hi>Newarke</hi> of the other party, touching the yeelding and ſurrendring of that Garriſon, and the Caſtle, Forts<g ref="char:punc">▪</g> and Sconces thereunto belonging, to the Committee of both Kingdomes, for the uſe of the Parliament of <hi>England.</hi>
+            </head>
+            <p n="1">1 THat the To<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Garriſon of <hi>Newarke,</hi> with the Caſtle, Forts Scorces Ordnance Morter-peeces, Armes, Ammu<g ref="char:EOLhyphen"/>nition, and Proviſions, and neceſſaries of Warre, (not hereafter expreſſed) be ſurrendred on Saturday next at ten of the clock, into the hands of the Commi<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tee of both Kingdomes, or whom they ſhall appoynt for the uſe of the Parliament of <hi>England,</hi> without imbezling any of them.</p>
+            <p n="2">2 That the Governour of the ſaid Garriſon, ſhall march away with his ſervants, Horſes, Armes and proper goods to any Garri<g ref="char:EOLhyphen"/>ſon he ſhall name, not beſieged or blockt up or to his own houſe, there to remaine unmoleſted, ſubmitting to all Ordinances of Parliament: And alſo, that the ſaid Governour ſhall have liberty upon d<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſire, any time within three moneths to paſſe beyond Seas, and to have Paſſes granted for himſelfe, and ſervants accordingly.</p>
+            <p n="3">3. That all Officers in Commiſſion, or that have beene formerly in Commiſſion, ſhall march away with their Horſes, Armes, and their proper goods the common Souldiers of Horſe and Foot with their Money, clothes and Swords<g ref="char:punc">▪</g> to any Garriſon not beſieged or blockt up, or to their owne houſes as they ſhall make choice of; and thoſe that have not mony, to have free quarter in their march,
+<pb n="5" facs="tcp:113597:4"/>
+               <!-- PDF PAGE 95 -->and not to march above ten miles in one day unleſſe they pleaſe, and to have a Convoy and Carriages provided for the carrying a<g ref="char:EOLhyphen"/>way their goods, Hoſtages being given for their returne of the Convoy and Carriages, and ſuch goods as cannot be removed, the owners ſhall have three moneths libertie to diſpoſe of them.</p>
+            <p n="4">4 That all ſuch Officers and Gentlemen, now in the Garriſon who ſhall deſire to depart this Kingdome, ſhall upon ſignifican<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thereof to the Commiſſioners of both Kingdomes, any time <gap reason="illegible: missing" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> three moneths have Paſſes for that purpoſe, for themſelves and ſer<g ref="char:EOLhyphen"/>vants, engaging themſelves during their ſtay, to doe no diſ-<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ervice to the Parliament.</p>
+            <p n="5">5 That all ſuch Officers and Souldiers, as by reaſon of Sick<g ref="char:EOLhyphen"/>neſſe, Wounds, or otherwiſe, as are not able to march out at the ſame time appoynted, ſhall have libertie to ſtay in the Towne, or ſome other convenient place, till they be recovered, and ſuch as are not able to provide maintenance for themſelves, ſhall have care taken of them.</p>
+            <p n="6">6 That all Noblemen and Gentlemen in the ſaid Garriſon ſhall have libertie to march forth the ſame with their Horſes and Armes, and their knowne meniall ſervants, with their Horſes and Swords to their owne houſes, their to remaine unmoleſted, ſubmitting to all Ordinances of Parliament, and to have libertie to carry away their own proper goods, then, or at any time within three moneths, or to have Paſſes for themſelves and ſervants to goe beyond Sea upon deſire within three moneths; and in the meane time, to en<g ref="char:EOLhyphen"/>gage themſelves to doe nothing to the diſ-ſervice of the Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p n="7">7 That all Clergy-men in the Garriſon, ſhall have libertie, with their Horſes, Servants, and their owne proper goods, to march to any Garriſon unblockt up or not beſieged, or to their owne houſes, there to remaine unmoleſted, ſubmitting to all Ordinances of Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p n="8">8 That the Major, Aldermen, and Inhabitants of the ſaid Gariſon, ſhall not be moleſted in their perſons, priviledges, goods, or eſtate, (ſubmitting to all Ordinances of Parliament) and to enjoy the ſame libertie, and to have the ſame protection as all other Townes have which are in the power of the Parliament.</p>
+            <p n="9">9 That the Ladies, Gentlewomen, Wives, Widowes, Children and Servants, belonging to any of the perſons mentioned in the
+<pb n="6" facs="tcp:113597:5"/>
+               <!-- PDF PAGE 96 -->former Articles, or any other, ſhall have libertie to march forth of the ſaid Garriſon, with their Coaches, Horſes, and proper goods, as in the ſixth Article: And if any of them, by reaſon of ſickneſſe, or any other juſt reaſon, cannot march forth, then they ſhall have libertie to ſtay there till their recovery, and then to depart unmo<g ref="char:EOLhyphen"/>leſted.</p>
+            <p n="10">10 That all priſoners now in the ſaid Garriſon, Caſtle, or Fort, or any other priſoners of warre, taken by either party ſince the ſiege began, ſhall forthwith upon ſigning theſe Articles be ſet at liberty, unleſſe they be detained for criminall offences charged upon them, not as Souldiers.</p>
+            <p n="11">11 That all perſons compriſed within theſe Articles grounded upon the ſummons of the 27. of April, which began this preſent Treaty, be recommended to compound with the Parliament for their eſtates, as comming in before the 1. of May. ſo as they doe effectually proſtrate any compoſitions within two months next enſuing the date hereof.</p>
+            <p n="12">12 If any of the perſons above-mentioned ſhall violate any of theſe Articles, or any part of them, they ſhall looſe the benefit of all the ſaid Articles.</p>
+            <p n="13">13 That for the performance of theſe Articles Hoſtages may be mutually given, and that a ceſſation of Armes continued by both ſides till the time of ſurrender, according to the Articles; and that guards and convoys be appoited to protect the Gentry and Souldiers (in their march) from violence.</p>
+            <closer>
+               <signed>Signed by us the Commiſſi<g ref="char:EOLhyphen"/>oners of the L. <hi>Bellaſis.</hi>
+                  <list>
+                     <item>Thomas Ingram</item>
+                     <item>Bryan Balmes</item>
+                     <item>Iarvis Nevill</item>
+                     <item>Robert Sutton</item>
+                     <item>Simon Fanſhaw</item>
+                     <item>Eyre</item>
+                     <item>Gilby</item>
+                     <item>Darſie</item>
+                     <item>Atkins</item>
+                     <item>Standiſh</item>
+                     <item>Thomas Briſtow Cler.</item>
+                  </list>
+Signed by us authorized by the Commiſſioners of both Kingdoms.
+<list>
+                     <item>Elexander Popham</item>
+                     <item>Francis Thornhaugh</item>
+                     <item>John Hutchiſon.</item>
+                     <item>Henry Gray</item>
+                     <item>Richard Thornton</item>
+                     <item>
+                        <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> T<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>iſ<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ton</item>
+                     <item>Iohn Archer</item>
+                     <item>Walter Scot</item>
+                     <item>Gilbert C<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>.</item>
+                     <item>
+                        <hi>Archibald Douglas</hi>
+                     </item>
+                  </list>
+vera copia.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113597:5"/>
+            <!-- PDF PAGE 96 -->
+         </div>
+         <div type="Parliamentary_ordinance">
+            <pb facs="tcp:113597:6"/>
+            <!-- PDF PAGE 97 -->
+            <opener>
+               <dateline>
+                  <date>Die Mercurii May 21. 1646.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the COMMONS Aſſembled in PARLIAMENT, That Sir <hi>Benjamin Rudyard</hi> doe from this Houſe give Thanks to M<hi rend="sup">r</hi>. <hi>Torſhel</hi> And that M<hi rend="sup">r</hi>. <hi>Hollis</hi> doe from this Houſe give Thanks to M<hi rend="sup">r</hi>. <hi>Herle</hi> for the great pains they took in the Sermons they preached upon the 12<hi rend="sup">th</hi> day of <hi>May</hi> laſt paſt, at the intreaty of the Houſe of COMMONS at S<hi rend="sup">t</hi> 
+               <hi>Margarets Weſtmin<g ref="char:EOLhyphen"/>ſter,</hi> it being a day of Publike Thankſgiving, and to deſire them to print their Sermons; And it is Ordered that none ſhall preſume to Print their Sermons without leave under their hands writing.</p>
+            <closer>
+               <signed>
+                  <hi>H. Elſyng</hi> Cler. Parl. D. Com.  </signed>
+            </closer>
+         </div>
+         <div type="license">
+            <p>I appoint <hi>John Bellamy</hi> to Print this Sermon.</p>
+            <closer>
+               <signed>SAM. TORSHEL.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
